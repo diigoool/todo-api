@@ -1,0 +1,3 @@
+.env
+/services/todo_service_test.go
+/repositories/mock_todo_repository.go
